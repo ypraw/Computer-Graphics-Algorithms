@@ -1,5 +1,5 @@
 # Computer-Graphics-Algorithms
-  implementation Algorithms for Computer Graphics
+  implementation Algorithms for Computer Graphics, write in python and OpenGL
 
 <dl> 
   <dt> This code using OpenGL for rendering, please install openGL using PIP.</dt>
